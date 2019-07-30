@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<!-- HEAD -->
+
+<head>
+	<ul class="nav-bar">
+
+		<!-- Meta Data -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+
+		<!-- Title -->
+		<title>Ad Space</title>
+
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+		 crossorigin="anonymous">
+
+
+		<!-- Custom CSS -->
+		<link href="style.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+
+<body style="background-color:powderblue">
+
+
+	<!-- HEADER -->
+	<header>
+		<ol class="bar-nav">
+			<li><a href="https://Bit.ly/FlexSheet">*Website</a></li>
+			<li><a href="https://Paypal.com/3lan">*It's payment time</a></li>
+		</ol>
+	</header>
+
+
+	<!-- MAIN -->
+	<main>
+		<!-- BODY -->
+
+		<p>
+			
+		</p>
+		We have ads here
+		<ul>
+			 the top left, 
+			 the top right, 
+			 the middle left, 
+			 the middle right,
+			 the bottom left,
+       the bottom right, 
+			 the bottom middle 
+		</ul>
+
+Here are the sizes 
+
+<img src="Pic.png"height = "200" width = "700" /></a>
+300x750
+<img src="Pic.png"height = "200" width = "200" /></a>
+200x200
+<img src="Pic.png"height = "300" width = "250" /></a>
+300x250
+<img src="Pic.png"height = "300" width = "600" /></a>
+300x600
+<img src="Pic.png"height = "240" width = "400" /></a>
+240x400
+<img src="Pic.png"height = "120" width = "600" /></a>
+120x600
+
+<div> 
+  Make sure when you send me the 
+
+		<select class="custom-select" id="inputGroupSelect01">
+<option selected>aviliable sizes</option>
+<option value="1">300x750</option>
+<option value="3">200x200</option>
+<option value="5">300x250</option>
+<option value="7">300x600</option>
+<option value="9">240x400</option>
+<option value="10">120x600</option>
+
+
+
+		</select>
+
+		<!-- FOOOTER -->
+		<footer>
+
+
+		</footer>
+
+		<!-- Bootstrap JS -->
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+		 crossorigin="anonymous">
+
+		</script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+		 crossorigin="anonymous">
+
+		</script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+		 crossorigin="anonymous">
+
+		</script>
+
+		<!-- Custom JS -->
+  
+
+
+		</script>
+		
+</body>
+<script>
+
+
+
+</script>
+</html>
